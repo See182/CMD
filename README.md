@@ -1,2 +1,2 @@
 # CMD
-My CMD Script collection
+My CMD Script Collection
